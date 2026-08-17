@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "OSCD_demo_PCB_symbols") (type "KiCad") (uri "${KIPRJMOD}/assets/OSCD_demo_PCB_symbols.kicad_sym") (options "") (descr ""))
+)
