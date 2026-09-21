@@ -1,4 +1,5 @@
 # OSCD Demo PCB
+[![DOI](https://zenodo.org/badge/1336786561.svg)](https://doi.org/10.5281/zenodo.22870261)
 
 A demonstration / teaching PCB built by the [Open Science Community Delft](https://www.tudelft.nl/en/library/open-science-community-delft) to show what an open hardware project looks like in practice: full sources, an open licence, and everything needed to have the board made and reprogrammed by anyone.
 
